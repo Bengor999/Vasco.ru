@@ -28,39 +28,35 @@
         // height: 60px;
     }
     .container-main {
-        background: rgb(85, 233, 66);
-        // background: linear-gradient( #ececec 1%, #fff 99%);
-
-        display: flex;
-        justify-content: space-between;
-        // padding: 30px 0;
-        // position:absolute;
-        // top: 50px;
-        max-width: 1240px;
-        margin: 0 auto;
-        // margin-top: 140px;
-        height: 1500px;
-        .main-general {
-            background: rgb(230, 162, 122);
-            // padding: 30px 0;
-            // position:absolute;
-            // top: 50px;
-            max-width: 926px;
-            width: 100%;
-            margin: 0;
+        left: 0;
+        right: 0;
+        // background-color: aqua;
+        background: linear-gradient( #ececec 0.4%, #fff 1.5%);
+        .container-general {
+            display: flex;
+            justify-content: space-between;
+            max-width: 1240px;
+            margin: 0px auto 0 auto;
             height: 1500px;
-    
-        }
-        .aside-general {
-            background: rgb(1, 21, 133);
-            // padding: 30px 0;
-            // position:absolute;
-            // top: 50px;
-            max-width: 295px;
-            width: 100%;
-            margin: 0;
-            height: 1500px;
+            .main-general {
+                background: rgb(230, 162, 122);
+                max-width: 926px;
+                width: 100%;
+                margin: 0;
+                height: 1500px;
+        
+            }
+            .aside-general {
+                background: rgb(1, 21, 133);
+                // padding: 30px 0;
+                // position:absolute;
+                // top: 50px;
+                max-width: 295px;
+                width: 100%;
+                margin: 0;
+                height: 1500px;
 
+            }
         }
     }
     .footer {
