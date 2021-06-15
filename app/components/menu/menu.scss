@@ -1,0 +1,23 @@
+.wrapper {
+    .nav {
+        margin-top: 80px;
+        right: 0;
+        left: 0;
+        // width: 100vw;
+        height: 60px;
+        background: linear-gradient( #ececec 1%, #fff 99%);
+
+        .container {
+            width: 100%;
+            max-width: 1240px;
+            margin: 0 auto;
+            height: 60px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            // background-color: blueviolet;
+
+
+        }
+    }
+}

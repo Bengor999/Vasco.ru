@@ -1,0 +1,31 @@
+<svg width="438" height="402" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="404" width="440" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="1" x="1" height="400" width="580"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+  <g stroke="null" id="svg_17">
+   <g stroke="null" transform="matrix(0.5319309938366179,0,0,0.4795746544830774,-5331.399260801335,-3567.0328293923603) " id="svg_14">
+    <title stroke="null" transform="translate(-166.84495544433594,0) translate(-391.7974548339844,268.3296203613281) translate(-6.121835231781006,-9.094947017729282e-13) translate(4.897468090057373,5.235699653625488) translate(10586.2939453125,0) translate(0,7172.46142578125) ">background</title>
+    <rect stroke="null" x="10025.427168" y="7445.026746" width="820" height="823" id="svg_12" fill="none"/>
+    <g stroke="null" id="svg_11" display="none">
+     <rect stroke="null" id="svg_15" width="816" height="819" x="10027.427168" y="7447.026746" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g stroke="null" transform="matrix(0.5319309938366179,0,0,0.4795746544830774,-5331.399260801335,-3567.0328293923603) " id="svg_16">
+    <title stroke="null" transform="translate(-166.84495544433594,0) translate(-391.7974548339844,268.3296203613281) translate(-6.121835231781006,-9.094947017729282e-13) translate(4.897468090057373,5.235699653625488) translate(10586.2939453125,0) translate(0,7172.46142578125) ">Layer 1</title>
+    <g stroke="null" id="svg_8">
+     <path stroke="null" d="m10435.419838,7878.125906c100.05877,0 181.18273,-95.84205 181.18273,-214.07015c0,-163.94967 -81.12029,-214.06942 -181.18273,-214.06942c-100.06612,0 -181.18127,50.11975 -181.18127,214.06942c0.00184,118.2281 81.11699,214.07015 181.18127,214.07015z" fill="#ffffff" id="svg_10"/>
+     <path stroke="null" d="m10835.515328,8193.211306l-91.40863,-207.86042c-4.17998,-9.50964 -11.52617,-17.39945 -20.6685,-22.20386l-141.85859,-74.54545c-3.12947,-1.64187 -6.91643,-1.32231 -9.73002,0.82645c-40.12121,30.63361 -87.29844,46.82461 -136.42241,46.82461c-49.1291,0 -96.30082,-16.191 -136.42387,-46.82461c-2.8202,-2.14876 -6.60826,-2.46832 -9.73664,-0.82645l-141.8505,74.54545c-9.146,4.80441 -16.48301,12.68687 -20.66777,22.20386l-91.40863,207.86042c-6.30193,14.33241 -5.01047,30.72543 3.45638,43.87144c8.46245,13.14233 22.78494,20.98439 38.31369,20.98439l716.63139,0c15.52984,0 29.85491,-7.84573 38.31772,-20.98806c8.46281,-13.14234 9.75941,-29.5427 3.45638,-43.86777z" fill="#ffffff" id="svg_9"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
